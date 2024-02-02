@@ -16,7 +16,7 @@ Particle Auth Core, a component of Particle Network's Wallet-as-a-Service, enabl
 
 ##
 
-👉 Try the demo: https://web-demo.particle.network
+👉 Try the demo: https://core-demo.particle.network
 
 👉 Learn more about Particle Network: https://particle.network
 
